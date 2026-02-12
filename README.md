@@ -1,1 +1,5 @@
-# java-task1
+The Java Console Calculator is a basic menu-driven application developed to demonstrate fundamental programming concepts in Java. The objective of this project is to design and implement a calculator that performs essential arithmetic operations, including addition, subtraction, multiplication, and division, using console-based input and output.
+
+The application is structured using a clean and modular approach, where each arithmetic operation is implemented as a separate method to enhance readability and maintainability. The program utilizes the Scanner class to accept user input and a do-while loop to allow multiple calculations within a single execution until the user chooses to exit. Conditional statements and a switch expression are used to handle operation selection efficiently.
+
+The project is organized under the package com.elevatelab.calc and was developed using Java (JDK) in IntelliJ IDEA Community Edition. This implementation demonstrates understanding of object-oriented programming principles, method creation, control flow statements, user interaction handling, and basic software structuring practices.
